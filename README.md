@@ -46,7 +46,8 @@ ___
     <a href="https://www.josueisai.es">www.josueisai.es</a> |
     <a href="www.linkedin.com/in/josué-isai-hernández-sánchez">
     LinkedIn</a> |
-    <a href="mailto:josueisaihs@gmail.com">josueisaihs@gmail.com</a>
+    <a href="mailto:josueisaihs@gmail.com">josueisaihs@gmail.com</a> |
+    <a href="https://medium.com/@josueisaihs">Medium</a>
 </p>
 
 ___
