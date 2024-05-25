@@ -1,9 +1,5 @@
 # 👋 &nbsp;Hey there! I'm Josué
 
-![Me](assets/josue.JPG)
-
-___
-
 ### 👨🏻‍💻 &nbsp;About Me
 
 🌎 &nbsp; I'm from Cuba 🇨🇺 &nbsp; but I live in Spain 🇪🇸 &nbsp;.\
