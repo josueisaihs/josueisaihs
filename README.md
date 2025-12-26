@@ -11,7 +11,7 @@
 🏋 &nbsp; I like to practice physical exercises, play sports and I am the number one fan of Real Madrid FC.\
 💬 &nbsp;Feel free to contact me for pro bono consulting and volunteering, or just for an interesting discussion.\
 ✉️ &nbsp;You can email me at josueisaihs@gmail.com! I will try to answer as soon as I can.\
-📄 Check my [web](https://www.josueisai.es) for more details about me. I am open to comments and suggestions!\
+📄 Check my [web](https://www.josueisai.com) for more details about me. I am open to comments and suggestions!\
 
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -39,7 +39,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-    <a href="https://www.josueisai.es">www.josueisai.es</a> |
+    <a href="https://www.josueisai.com">www.josueisai.com</a> |
     <a href="www.linkedin.com/in/josué-isai-hernández-sánchez">
     LinkedIn</a> |
     <a href="mailto:josueisaihs@gmail.com">josueisaihs@gmail.com</a> |
